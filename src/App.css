@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.nav a{
+  text-decoration: none;
+  color: white;
+  margin-right: 7%;
+}
+.nav{
+  background-color: royalblue;
+  margin-right: 82%;
+  padding: 0.5%;
+  border-radius: 7px;
+}
+.nav a:hover{
+  color: black;
+}
